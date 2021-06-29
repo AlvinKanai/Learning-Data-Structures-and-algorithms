@@ -28,8 +28,6 @@ jest reversestring/test.js --watch
 
 Used 3 solutions
 
-<ul>
-reverse()
-reduce()
-for of loop
-</ul>
+- split().reverse().join()
+- reduce()
+- for of loop
