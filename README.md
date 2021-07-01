@@ -31,3 +31,11 @@ Used 3 solutions
 - split().reverse().join()
 - reduce()
 - for of loop
+
+## Day 2: Palindromes
+
+A palindrome is a word that is the same when reversed eg. racecar
+Used 2 solutions
+
+- split().every()
+- split().reverse().join() then a comparison of the two variables
