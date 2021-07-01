@@ -27,15 +27,33 @@ jest reversestring/test.js --watch
 ## Day 1 : String Revesal
 
 Used 3 solutions
+<code>
 
 - split().reverse().join()
+  </code>
+  <code>
 - reduce()
+  </code>
+  <code>
 - for of loop
+  </code>
 
 ## Day 2: Palindromes
 
 A palindrome is a word that is the same when reversed eg. racecar
 Used 2 solutions
 
-- split().every()
+<code>
+- split().every() 
+</code>
+<code>
 - split().reverse().join() then a comparison of the two variables
+</code>
+
+## Day 3: Reversing an integer
+
+Used one solution
+
+<code>
+- parseInt(.spit().reverse().join()) * Math.sign
+</code>
